@@ -1,17 +1,33 @@
 # Learning Kotlin 📚
 
-Repositório criado para organizar meus estudos em Kotlin. Aqui você vai encontrar exemplos práticos, projetos simples e códigos comentados para facilitar o aprendizado.
-
-## Estrutura
-
-- `kotlin-basics`: conceitos iniciais (print, variáveis, tipos, etc.)
-- Em breve: estruturas de controle, orientação a objetos, Android, etc.
-
-## Objetivo
-
-Explorar a linguagem Kotlin desde o básico até aplicações Android mais completas.
+This repository is dedicated to my journey learning the **Kotlin** programming language — from the fundamentals to applied development.
 
 ---
 
-> Feito com foco nos estudos e evolução contínua. 💡
+## ✅ Completed
 
+- **[Kotlin Tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html)**  
+  Covered all core concepts including basic types, control flow, functions, classes, collections, and null safety.
+
+---
+
+## 🎯 Now Focusing On
+
+- Building small real-world Kotlin projects
+- Deepening Kotlin knowledge through:
+  - Control structures and functions in depth
+  - Object-oriented design in Kotlin
+  - Collections and standard library utilities
+  - Testing and clean code practices
+
+---
+
+## 🚧 Upcoming Topics
+
+- **Android development** with Jetpack Compose
+- **Asynchronous programming** with Coroutines and Flow
+- **Kotlin Multiplatform Mobile (KMM)**
+- Advanced functional patterns
+- Backend with Kotlin (Ktor or Spring)
+
+---
