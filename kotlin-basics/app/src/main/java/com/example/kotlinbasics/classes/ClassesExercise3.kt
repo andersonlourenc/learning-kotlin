@@ -13,7 +13,7 @@ data class Employee1(val name: String, var salary: Int)
  class RandomEmployeeGenerator(var minSalary: Int, var maxSalary: Int) {
      val names = listOf("Mary", "John", "Mark", "Julie", "Anna", "Jack", "Elizabeth")
      fun generateEmployee() =
-         Employee(names.random(),
+         Employee1(names.random(),
          Random.nextInt(from = minSalary, until = maxSalary))
      }
 
